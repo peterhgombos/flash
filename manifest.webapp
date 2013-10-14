@@ -1,0 +1,10 @@
+{
+    "name": "Flash",
+    "description": "A simple flashlight app",
+    "launch_path": "index.html",
+    "developer": {
+        "name": "Péter H. Gombos",
+        "url": "http://www.gombos.no"
+    },
+    "default_locale": "en"
+}
